@@ -1,6 +1,6 @@
 # img2text
 A command line script to convert images to text 
-
+i don't know what am doing
 ## Usage:
 **Homework:** Write a description for how to use the program here
 
